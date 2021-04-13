@@ -1,1 +1,2 @@
 # pest_pred
+Can tell the difference between a mosquito bite and an tick bite with alright confidence because there are only 47 training pictures and 2 test pictures so accuracy and loss are difficult with such a small datset even with maxpooling and convolutions. I added a very small dropout because it increased the training and validation accuracy enough. Try and see if you can improve my model even further with such an extremely small dataset with similar looking pictures. Seriously. Then let me know how you did it.
